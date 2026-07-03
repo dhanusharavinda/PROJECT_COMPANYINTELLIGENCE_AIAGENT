@@ -1,0 +1,8 @@
+streamlit==1.57.0
+openai==2.38.0
+langgraph==1.2.1
+mcp==1.27.1
+python-dotenv==1.2.2
+pillow==12.2.0
+fpdf2==2.8.7
+requests==2.34.2
